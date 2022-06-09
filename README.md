@@ -8,7 +8,4 @@ Database after registration:
 
 Login:![login](https://user-images.githubusercontent.com/92724870/172621523-71fe964b-2121-4961-a451-1178320e1d78.PNG)
 
-Index.php page after login:
-
-![login](https://user-images.githubusercontent.com/92724870/172621800-c2103bdb-93c2-45fe-b270-05e855394e47.PNG)
 Database :![image](https://user-images.githubusercontent.com/92724870/172806066-3cfe9618-f590-47d7-87ae-0868b87d1758.png)

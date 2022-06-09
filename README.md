@@ -19,3 +19,8 @@ If we press create product the create.php opens you can list your product(phone)
 ![image](https://user-images.githubusercontent.com/92724870/172810410-5459b897-3ab0-4998-a2ea-6a9da1eb17f7.png)
 ![image](https://user-images.githubusercontent.com/92724870/172810491-da29812c-4c87-4e7e-a8f1-35bca08b224a.png)
 
+We can also edit and delete products. For this example lets say I will delete samsung, just press the red button where the samsung is. It disapears from index.php and from phpmyadmin.
+![image](https://user-images.githubusercontent.com/92724870/172811122-41785580-8cc0-40a1-83a3-7731e1c5c9b2.png)
+![image](https://user-images.githubusercontent.com/92724870/172811161-d3c0ac95-c596-42ed-8100-68a400d9aadb.png)
+
+
